@@ -10,7 +10,7 @@ Install Git GUI
 
 Guide - https://git-scm.com/downloads/guis/
 
-Project Overview - https://github.com/kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System/blob/main/README.md
+Project Overview - https://github.com/navaronaldo14/Surveillance-Recognition/blob/main/README.md
 
 **Types of code changes and contributions we accept**
 
